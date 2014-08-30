@@ -11,6 +11,8 @@ You are in!
 
 The root folder of this project will be mounted inseide the VM as /home/vagrant/project_root/devtools
 
+You will also need to have the application source checked out or shared into /home/vagrant/project_root/source
+
 ~$ CD project_root/devtools
 ~/project_root/devtools $ ./setupdirs.sh
 
