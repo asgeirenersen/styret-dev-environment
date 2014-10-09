@@ -27,3 +27,4 @@ OS: Debian 7.4
 * MySQL
 * Google Appengine dev environment 1.99
 ** Installed to /opt/google_appengine
+
